@@ -1,3 +1,4 @@
+/* tslint:disable */
 // @flow
 
 import { ThunkAction, Dispatch } from '../reducers/types';

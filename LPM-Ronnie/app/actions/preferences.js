@@ -1,3 +1,4 @@
+/* eslint-disable */
 // @flow
 
 import type { Action, repoType } from '../reducers/types';

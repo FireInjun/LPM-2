@@ -1,3 +1,4 @@
+/* tslint:disable */
 // @flow
 
 import axios from 'axios';

@@ -1,3 +1,4 @@
+/* tslint:disable */
 // @flow
 
 import type { Action } from '../reducers/types';
