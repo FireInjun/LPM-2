@@ -4,7 +4,7 @@
   "description": "Project Management App",
   "main": "main.js",
   "scripts": {
-    "start": "Electron .",
+    "start": "electron .",
     "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/PM_App.icns --prune=true --out=release-builds",
     "package-win": "electron-packager . PM_App --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/PM_App.ico --prune=true --out=release-builds --version-string.CompanyName=Lambda --version-string.FileDescription=PM_App --version-string.ProductName=\"PM_App\"",
     "package-linux": "electron-packager . PM_App --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/PM_App.png --prune=true --out=release-builds"
