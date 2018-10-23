@@ -1,0 +1,12 @@
+{
+  "name": "LPM-Myke",
+  "version": "1.0.0",
+  "description": "alternative LPM app for lambda school",
+  "main": "index.js",
+  "author": "FireInjun",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "husky": "^1.1.2"
+  }
+}
