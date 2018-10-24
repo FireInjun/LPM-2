@@ -27,6 +27,8 @@ https://airtable.com/shrEawWXvMldYbm5Q?prefill_Project+Manager=Kelly%20Frohwein&
 # Mykeal Kenny
 https://airtable.com/shrEawWXvMldYbm5Q?prefill_Project+Manager=Mykeal%20Kenny&prefill_Section=CS12&prefill_Present+Students=Arthur%20Bates%20Jr.,Erica%20Thompson,James%20Phillips,Jurgen%20Kela,Kyle%20Meltzer,Sam%20Khaled,Tim%20Zulf
 
+https://airtable.com/shrEawWXvMldYbm5Q?prefill_Project+Manager=Mykeal%20Kenny&prefill_Section=CSPT2&prefill_Present+Students=Marcus%20Bass,Venky%20Yagatilee,Javier%20Alvarez,Emmanuel%20Prado,David%20Daniel,Corey%20Kohler,Jonathan%20Brock
+
 # Ronald+Libago
 https://airtable.com/shrEawWXvMldYbm5Q?prefill_Project%20Manager=Ronald%20Libago&prefill_Section=CS12&prefill_Present%20Students=Carey%20Baldwin,Erik%20Kimsey,JoCatherine%20Griggs,Justin%20Hammett,Liz%20Baker,Sania%20Parekh,Vance%20Leon
 
